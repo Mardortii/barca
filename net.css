@@ -30,6 +30,11 @@ body {
   border-radius: 10%;
   cursor: pointer;
 }
+
+.sign:hover {
+  color: red;
+  background: white;
+}
 .main {
   margin-top: 10%;
   display: flex;
